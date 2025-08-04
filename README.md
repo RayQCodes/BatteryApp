@@ -1,4 +1,4 @@
-attery Telemetry API
+Battery Telemetry API
 A Flask REST API for Battery Temperature & Utility Endpoints
 
 Overview
