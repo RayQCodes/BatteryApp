@@ -5,6 +5,17 @@ Overview
 This is a simple Flask REST API that provides mock battery telemetry data, date retrieval, and basic math operations.
 It’s designed as a lightweight backend service for testing REST API development and integration.
 
+## 🎥 Demo Video: Project Tutorial
+
+Check out this quick 2-minute walkthrough of how the project works!
+
+[![Watch the video](https://img.youtube.com/vi/1od0hNYNNhE/0.jpg)](https://www.youtube.com/watch?v=1od0hNYNNhE)
+
+> ▶️ Click the image above to watch on YouTube  
+> Duration: ~2 minutes  
+> Covers: setup, core features, and a live demo
+
+
 Features
 Battery Temperature API – Retrieve mock temperature readings for a given battery ID.
 
